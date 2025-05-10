@@ -1,0 +1,82 @@
+body{
+    background-color: #F9F6EE;
+}
+img{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color:  #9c755c;
+}
+#top{
+ width: 800px;
+ height: 70px;
+ background-color: #00008B;
+ color: whitesmoke;
+ font-style: italic;
+ margin-left: auto;
+ margin-right: auto;
+}
+#live{
+ width: 800px;
+ margin-left: auto;
+ margin-right: auto;
+}
+.match{
+    display: inline-block;
+    position: relative;
+    font-size: 12px;
+    width: 195px;
+    height: 103px;
+    margin-top: 5px;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+}
+.matchBottom{
+    position: relative;
+    background-color: #FFFDD0;
+    width: 195px;
+   margin-bottom: 0% ;
+    height: 16px;
+    
+}
+.team{
+    margin-left: 10px;
+}
+#player{
+    display: inline-block;
+    margin-left: 100px;
+    width: 150px;
+    border-style: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 0px ;
+    border-width: 1px;
+    border-color: gray;
+    padding: 10px;
+}
+.flag{
+    width: 20px;
+    height: 12px;
+    margin-right: 5px;
+}
+.blog{
+    display: inline-block;
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    border-style: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 0px ;
+    border-width: 1px;
+    border-color: gray;
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.2);
+}
+.playerOne{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    text-align: left;
+}
