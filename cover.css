@@ -12,8 +12,9 @@ img{
 #top{
  width: 800px;
  height: 70px;
- background-color: #00008B;
- color: whitesmoke;
+ background-color: #9c755c;
+ color: white;
+ font-family: sans-serif;
  font-style: italic;
  margin-left: auto;
  margin-right: auto;
@@ -35,7 +36,10 @@ img{
 }
 .matchBottom{
     position: relative;
-    background-color: #FFFDD0;
+    background-color: #9c755c;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
     width: 195px;
    margin-bottom: 0% ;
     height: 16px;
